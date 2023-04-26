@@ -1,0 +1,10 @@
+{
+    "control_change_rates": [0.02, 0.02, 0.02],
+    "data_mapper_columns": [
+        "Datapoint Name",
+        "Datapoint Id",
+        "Property Name",
+        "Property Id"
+    ],
+    "property_ids" : -6
+}

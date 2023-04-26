@@ -1,0 +1,68 @@
+04/25/2023 21:26:17: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:26:18: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:26:18: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:26:22: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:26:22: INFO: main Line: 96 Saving results
+04/25/2023 21:26:23: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:26:24: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:26:24: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:26:28: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:26:28: INFO: main Line: 96 Saving results
+04/25/2023 21:26:29: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:26:30: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:26:30: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:26:34: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:26:34: INFO: main Line: 96 Saving results
+04/25/2023 21:27:42: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:27:43: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:27:43: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:27:47: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:27:47: INFO: main Line: 96 Saving results
+04/25/2023 21:27:47: INFO: main Line: 102 Total run time: 0.082 (minutes)
+04/25/2023 21:27:48: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:27:49: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:27:49: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:27:53: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:27:53: INFO: main Line: 96 Saving results
+04/25/2023 21:27:53: INFO: main Line: 102 Total run time: 0.083 (minutes)
+04/25/2023 21:27:54: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:27:55: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:27:55: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:27:59: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:27:59: INFO: main Line: 96 Saving results
+04/25/2023 21:28:07: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:28:07: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:28:07: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:28:12: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:28:12: INFO: main Line: 96 Saving results
+04/25/2023 21:28:12: INFO: main Line: 102 Total run time: 0.086 (minutes)
+04/25/2023 21:28:13: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:28:13: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:28:13: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:28:18: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:28:18: INFO: main Line: 96 Saving results
+04/25/2023 21:28:18: INFO: main Line: 102 Total run time: 0.084 (minutes)
+04/25/2023 21:28:19: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:28:19: INFO: main Line: 91 Formatting Data for multiprocessing
+04/25/2023 21:28:19: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:28:24: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:28:24: INFO: main Line: 96 Saving results
+04/25/2023 21:28:24: INFO: main Line: 102 Total run time: 0.087 (minutes)
+04/25/2023 21:29:19: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:29:20: INFO: main Line: 90 Formatting Data for multiprocessing
+04/25/2023 21:29:21: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 21:53:29: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 21:53:29: INFO: main Line: 95 Saving results
+04/25/2023 21:53:29: INFO: main Line: 101 Total run time: 24.165 (minutes)
+04/25/2023 21:53:30: INFO: main Line: 55 Reading Config and Data
+04/25/2023 21:53:31: INFO: main Line: 90 Formatting Data for multiprocessing
+04/25/2023 21:53:31: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 22:17:40: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 22:17:40: INFO: main Line: 95 Saving results
+04/25/2023 22:17:40: INFO: main Line: 101 Total run time: 24.171 (minutes)
+04/25/2023 22:17:41: INFO: main Line: 55 Reading Config and Data
+04/25/2023 22:17:42: INFO: main Line: 90 Formatting Data for multiprocessing
+04/25/2023 22:17:43: INFO: mp_optimization Line: 184 Running multiprocessing with 12 cores
+04/25/2023 22:41:14: INFO: mp_optimization Line: 188 Bind results to historical format
+04/25/2023 22:41:14: INFO: main Line: 95 Saving results
+04/25/2023 22:41:14: INFO: main Line: 101 Total run time: 23.558 (minutes)

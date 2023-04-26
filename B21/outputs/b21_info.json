@@ -1,0 +1,32 @@
+{
+    "read_params": {
+        "args": {},
+        "kwargs": {
+            "sheet_name": "Datapoint Mappings"
+        }
+    },
+    "mapper_path": "../Model/Essar Mapping.xlsx",
+    "output_property_id": -180,
+    "failure_label": -99,
+    "property_ids": -6,
+    "controllable_ids": [
+        139984,
+        139530,
+        139501
+    ],
+    "noncontrollable_ids": [
+        139875,
+        139507,
+        139854,
+        139863
+    ],
+    "response_ids": [
+        139838,
+        139550,
+        139519
+    ],
+    "kpi_ids": [
+        139792,
+        139769
+    ]
+}

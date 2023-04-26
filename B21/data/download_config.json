@@ -1,0 +1,10 @@
+{
+    "client": "Essar_",
+    "server": "SPCPROSQL005",
+    "start_date": "2018-03-25",
+    "end_date": "2023-01-01",
+    "rate": 30,
+    "unit": "minutes",
+    "tag_suffix": " Stanlow",
+    "process_name": "b21"
+}
